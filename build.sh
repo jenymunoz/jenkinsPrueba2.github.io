@@ -15,7 +15,7 @@ else
 			echo $?
 		else
 			echo "Descarga incorrecta."
-			echo "descargando"
+			echo "Deteniendo trabajo"
 			echo $?
 			exit 1
 		fi
